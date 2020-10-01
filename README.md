@@ -1,2 +1,2 @@
-# BikeSharing_Regression
-BikeSharing_Regression
+- Analysis of BikeSharing dataset
+- Build Regression model
